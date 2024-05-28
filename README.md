@@ -9,8 +9,11 @@ In this code, we have following features.
 
 **How to Run:**
 
-Open VS code terminal and type command
+- Open VS code terminal and type command
 
-**npm install**
+		npm install
 
-Above command will install all neccessary packages and create node_modules folder in your downloaded code.
+- Above command will install all neccessary packages and create node_modules folder in your downloaded code.
+
+- Now run below command to run the code
+  	npm run dev
