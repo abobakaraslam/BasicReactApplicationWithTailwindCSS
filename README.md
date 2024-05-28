@@ -16,4 +16,5 @@ In this code, we have following features.
 - Above command will install all neccessary packages and create node_modules folder in your downloaded code.
 
 - Now run below command to run the code
-  	npm run dev
+
+		npm run dev
